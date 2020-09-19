@@ -42,5 +42,5 @@ Fiels that might be most interesting for you from a Memory Management perspectiv
 
 A cool exercise would be to clone the original repository from Udacity which can be found [here](), try to solve the tasks yourself and then compare with this solution. Have fun coding!
 
-## Aknowledgements
+## Acknowledgements
 This is the project for the third course in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213): Memory Management. If you are interested in C++ programming, or just want to freshen up your game, I can highly recommend the course!
