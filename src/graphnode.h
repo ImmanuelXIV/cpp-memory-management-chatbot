@@ -43,8 +43,7 @@ public:
     void AddEdgeToParentNode(GraphEdge *edge);
     void AddEdgeToChildNode(std::unique_ptr<GraphEdge> edge);
 
-    //Alternative void MoveChatbotHere(ChatBot chatbot); then the Move Contructor is called
-    void MoveChatbotHere(ChatBot &&chatbot); 
+    void MoveChatbotHere(ChatBot chatbot); 
 
     void MoveChatbotToNewNode(GraphNode *newNode);
 };
